@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/SophiaConf2019/imgs/Logo SC2019-ENG.jpg" border="0" /></p>
+<p align="center"><img src="https://github.com/carolinepacheco/SophiaConf2019.git/imgs/Logo_SC2019-ENG.jpg" border="0" /></p>
 
 # MACHINE LEARNING OPEN STUDIO (MLOS)
 
