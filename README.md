@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/carolinepacheco/SophiaConf2019.git/imgs/Logo_SC2019-ENG.jpg" border="0" /></p>
+<p align="center"><img src="https://github.com/carolinepacheco/SophiaConf2019/blob/master/imgs/Logo_SC2019-ENG.jpg" border="0"/></p>
 
 # MACHINE LEARNING OPEN STUDIO (MLOS)
 
@@ -25,3 +25,6 @@ The purpose of this workshop is to provide a comprehensive overview of the Machi
 
 **Text**
 - https://bit.ly/2ZOaaXK
+
+## Slide
+- https://drive.google.com/file/d/16ZtOkP4ic5DWgv1afvo0pIaML1Dq1j5Q/view?usp=sharing
