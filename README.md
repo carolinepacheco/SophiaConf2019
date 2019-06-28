@@ -7,14 +7,14 @@ The purpose of this workshop is to provide a comprehensive overview of the Machi
 
 ## Some Machine Learning Datasets
 
-**Diabetes Dataset**
+**Diabetes**
 
 -  https://bit.ly/2JaBWab
 
 **Iris Dataset**
 - [https://bit.ly/2KAW6NZ](https://bit.ly/2KAW6NZ)
 
-**Vehicle Silhouette Dataset**
+**Vehicle Silhouette**
 - https://bit.ly/2KAtqVd
 
 ## Some Deep Learning Datasets
