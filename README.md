@@ -9,10 +9,11 @@ The purpose of this workshop is to provide a comprehensive overview of the Machi
 
 **Diabetes**
 
--  https://bit.ly/2JaBWab
+- https://bit.ly/2KAW6NZ
 
 **Iris Dataset**
-- [https://bit.ly/2KAW6NZ](https://bit.ly/2KAW6NZ)
+
+-  https://bit.ly/2JaBWab
 
 **Vehicle Silhouette**
 - https://bit.ly/2KAtqVd
@@ -25,6 +26,9 @@ The purpose of this workshop is to provide a comprehensive overview of the Machi
 
 **Text**
 - https://bit.ly/2ZOaaXK
+
+## MLOS Documentation
+- https://doc.activeeon.com/dev/MLOS/MLOSUserGuide.html
 
 ## Slides
 - https://drive.google.com/file/d/16ZtOkP4ic5DWgv1afvo0pIaML1Dq1j5Q/view?usp=sharing
