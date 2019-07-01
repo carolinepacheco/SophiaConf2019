@@ -16,9 +16,6 @@ The purpose of this workshop is to provide a comprehensive overview of the Machi
 
 - https://trydev.activeeon.com/tutorials/machine-learning/mlos-JPAK-hands-on.html
 
-**Diabetes**
-
-- https://bit.ly/2KAW6NZ
 
 ## Some Machine Learning Datasets
 
