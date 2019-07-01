@@ -21,7 +21,9 @@ The purpose of this workshop is to provide a comprehensive overview of the Machi
 
 **Diabetes**
 
-- https://bit.ly/2KAW6NZ
+- https://bit.ly/2KAW6NZ (classification)
+
+- https://s3.eu-west-2.amazonaws.com/activeeon-public/datasets/pima-indians-diabetes.csv (regression)
 
 **Iris Dataset**
 
